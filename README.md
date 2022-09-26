@@ -13,8 +13,8 @@ Sentiment Analysis for stock markets is done using scraped data from social medi
 
 ### Positive Wordcloud
 
-![1](./positive.png =100x20)
+<img src="positive.png" alt="positive" width="200"/>
 
 ### Negative Wordcloud
 
-![2](./negative.png =100x20)
+<img src="negative.png" alt="negative" width="200"/>
