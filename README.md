@@ -2,7 +2,7 @@ Sentiment Analysis for stock markets is done using scraped data from social medi
 
 ## KEY TAKEAWAYS
 
-* The text from social media is classified as positive and negative sentiment. So this is binary classification problem
+* The text from social media is classified as a positive and negative sentiment. So this is a binary classification problem
 
 * NLTK package is used to perform data preprocessing like "stopwords/punctuation removal", "lemmatization", "tokenization" etc.
 
@@ -11,3 +11,10 @@ Sentiment Analysis for stock markets is done using scraped data from social medi
 * A 1D CNN, LSTM, and combination of both used for final training with the combination model perfoming the best. 
 
 
+### Positive Wordcloud
+
+![1](./positive.png)
+
+### Negative Wordcloud
+
+![2](./negative.png)
